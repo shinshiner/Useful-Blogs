@@ -2,6 +2,23 @@
 
 A collection of some useful blogs, some might be 404 as time passing ...
 
+# Content
+
+* [OS](https://github.com/shinshiner/Useful-Blogs#os)
+    * [Ubuntu](https://github.com/shinshiner/Useful-Blogs#ubuntu)
+    * [Windows 10](https://github.com/shinshiner/Useful-Blogs#windows-10)
+* [环境安装](https://github.com/shinshiner/Useful-Blogs#%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85)
+    * [大型环境](https://github.com/shinshiner/Useful-Blogs#%E5%A4%A7%E5%9E%8B%E7%8E%AF%E5%A2%83)
+    * [小工具](https://github.com/shinshiner/Useful-Blogs#%E5%B0%8F%E5%B7%A5%E5%85%B7)
+* [Coding](https://github.com/shinshiner/Useful-Blogs#coding)
+    * [Python](https://github.com/shinshiner/Useful-Blogs#python)
+    * [C++](https://github.com/shinshiner/Useful-Blogs#c)
+    * [代码托管](https://github.com/shinshiner/Useful-Blogs#%E4%BB%A3%E7%A0%81%E6%89%98%E7%AE%A1)
+* [Mathematics](https://github.com/shinshiner/Useful-Blogs#mathematics)
+    * [Machine Learning & Probability Statistics](https://github.com/shinshiner/Useful-Blogs#machine-learning--probability-statistics)
+    * [Computer Vision](https://github.com/shinshiner/Useful-Blogs#computer-vision)
+* [OTW](https://github.com/shinshiner/Useful-Blogs#otw)
+
 # OS
 
 ## Ubuntu
@@ -12,9 +29,11 @@ A collection of some useful blogs, some might be 404 as time passing ...
 
 * [查看架构信息](https://www.sysgeek.cn/find-out-linux-system-32-or-64-bit/)
 
+* [查看显卡信息](https://www.jianshu.com/p/7cd391dec03e)
+
 ### 基本操作
 
-* [添加/删除软件源](https://blog.csdn.net/lu_embedded/article/details/55803500)
+* [添加 / 删除软件源](https://blog.csdn.net/lu_embedded/article/details/55803500)
 
 * [更换默认shell](https://blog.csdn.net/he520478/article/details/45219279)
 
