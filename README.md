@@ -18,6 +18,8 @@ A collection of some useful blogs, some might be 404 as time passing ...
 
 * [更换默认shell](https://blog.csdn.net/he520478/article/details/45219279)
 
+* [Debian下dpkg安装和卸载软件包](http://blog.51cto.com/wrchiu/359085)
+
 ### 代理设置
 
 * [ss命令行安装及chrome代理配置](https://blog.csdn.net/shen2308/article/details/78511151)
@@ -46,6 +48,16 @@ A collection of some useful blogs, some might be 404 as time passing ...
 
 ## 小工具
 
+* [Ubuntu 18.04装机必备软件](https://zhuanlan.zhihu.com/p/36591238)
+
+* [Ubuntu下scp图形化工具](https://www.zhihu.com/question/55954722)
+
+* [Ubuntu下装Kugou](https://blog.csdn.net/zgy0808/article/details/19572613) 缺少python相关的依赖项去[官方源](https://debian.pkgs.org/8/debian-main-amd64/python-webkit_1.1.8-3_amd64.deb.html)直接下载.deb
+
+* [Ubuntu下安装flash插件](https://blog.csdn.net/gsls200808/article/details/48895089)
+
+* [Chrome浏览器始终开启flash](https://www.zhihu.com/question/266170237)
+
 # Coding
 
 ## Python
@@ -54,9 +66,23 @@ A collection of some useful blogs, some might be 404 as time passing ...
 
 ## 代码托管
 
+* [git star管理](http://ourcoders.com/thread/show/7673/)
+
+# Mathematics
+
+## Machine Learning & Probability Statistics
+
+* [RANSAC算法通俗简介](https://blog.csdn.net/u013339596/article/details/18797667)
+
+## Computer Vision
+
+* [光流（optical flow）简介](https://blog.csdn.net/zouxy09/article/details/8683859)
+
 # OTW
 
 * [解决arxiv文章pdf加载慢](https://www.jianshu.com/p/184799230f20)
 
 * [git star管理](https://ruby-china.org/topics/29817)
+
+* [下载Youtube视频](https://zhuanlan.zhihu.com/p/32343191)
 
