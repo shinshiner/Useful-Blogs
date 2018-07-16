@@ -71,15 +71,21 @@ A collection of some useful blogs, some might be 404 as time passing ...
 
 * [Ubuntu下scp图形化工具](https://www.zhihu.com/question/55954722)
 
-* [Ubuntu下装Kugou](https://blog.csdn.net/zgy0808/article/details/19572613) 缺少python相关的依赖项去[官方源](https://debian.pkgs.org/8/debian-main-amd64/python-webkit_1.1.8-3_amd64.deb.html)直接下载.deb
+* [Ubuntu下装Kugou](https://blog.csdn.net/zgy0808/article/details/19572613) 缺少python相关的依赖项去[官方源](https://debian.pkgs.org/8/debian-main-amd64/python-webkit_1.1.8-3_amd64.deb.html)直接下载.deb文件；打开时提示“缺少插件”暂无解决方法
 
 * [Ubuntu下安装flash插件](https://blog.csdn.net/gsls200808/article/details/48895089)
 
 * [Chrome浏览器始终开启flash](https://www.zhihu.com/question/266170237)
 
+* [Ubuntu下安装Jupyter Notebook](https://blog.csdn.net/jenyzhang/article/details/73275232)
+
 # Coding
 
 ## Python
+
+* [tensorflow下解决语义分割交叉熵损失总是nan](https://blog.csdn.net/jinbeibei0606/article/details/80216913)
+
+* [pytorch实现简单的分类rnn](https://morvanzhou.github.io/tutorials/machine-learning/torch/4-02-RNN-classification/)
 
 ## C++
 
@@ -93,9 +99,17 @@ A collection of some useful blogs, some might be 404 as time passing ...
 
 * [RANSAC算法通俗简介](https://blog.csdn.net/u013339596/article/details/18797667)
 
+* [Softmax函数与交叉熵](https://zhuanlan.zhihu.com/p/27223959)
+
+* [为什么交叉熵（cross-entropy）可以用于计算代价？](https://www.zhihu.com/question/65288314)
+
 ## Computer Vision
 
 * [光流（optical flow）简介](https://blog.csdn.net/zouxy09/article/details/8683859)
+
+## Machine Vision
+
+* [视觉SLAM入门](https://www.cnblogs.com/gaoxiang12/p/3695962.html)
 
 # OTW
 
