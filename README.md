@@ -17,7 +17,8 @@ A collection of some useful blogs, some might be 404 as time passing ...
 * [Mathematics](https://github.com/shinshiner/Useful-Blogs#mathematics)
     * [Machine Learning & Probability Statistics](https://github.com/shinshiner/Useful-Blogs#machine-learning--probability-statistics)
     * [Computer Vision](https://github.com/shinshiner/Useful-Blogs#computer-vision)
-* [OTW](https://github.com/shinshiner/Useful-Blogs#otw)
+    * [Machine Vision](https://github.com/shinshiner/Useful-Blogs#machine-vision)
+* [O.T.W](https://github.com/shinshiner/Useful-Blogs#otw)
 
 # OS
 
@@ -30,6 +31,8 @@ A collection of some useful blogs, some might be 404 as time passing ...
 * [查看架构信息](https://www.sysgeek.cn/find-out-linux-system-32-or-64-bit/)
 
 * [查看显卡信息](https://www.jianshu.com/p/7cd391dec03e)
+
+* [查看磁盘空间](https://blog.csdn.net/newjueqi/article/details/7054582)
 
 ### 基本操作
 
@@ -93,6 +96,12 @@ A collection of some useful blogs, some might be 404 as time passing ...
 
 * [git star管理](http://ourcoders.com/thread/show/7673/)
 
+* [github在已有的仓库里创建License](https://stackoverflow.com/questions/31639059/how-to-add-license-to-an-existing-github-project)
+
+* [git pull操作](https://blog.csdn.net/liuhaomatou/article/details/65935558)
+
+* [git branch操作](https://www.jianshu.com/p/9d5a5ea3283a)
+
 # Mathematics
 
 ## Machine Learning & Probability Statistics
@@ -111,7 +120,7 @@ A collection of some useful blogs, some might be 404 as time passing ...
 
 * [视觉SLAM入门](https://www.cnblogs.com/gaoxiang12/p/3695962.html)
 
-# OTW
+# O.T.W
 
 * [解决arxiv文章pdf加载慢](https://www.jianshu.com/p/184799230f20)
 
