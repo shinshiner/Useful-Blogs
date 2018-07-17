@@ -48,6 +48,10 @@ A collection of some useful blogs, some might be 404 as time passing ...
 
 * [chrome浏览器下使用SwitchProxy插件配置ss代理](https://blog.csdn.net/u79501/article/details/69666754)
 
+* [Ubuntu18.04安装ss图形界面](https://blog.csdn.net/A807296772/article/details/80112871)
+
+* [V2Ray使用及对抗QoS限速](https://steemit.com/cn/@syt/v2ray-qos)
+
 ## Windows 10
 
 # 环境安装
@@ -73,6 +77,8 @@ A collection of some useful blogs, some might be 404 as time passing ...
 * [Ubuntu 18.04装机必备软件](https://zhuanlan.zhihu.com/p/36591238)
 
 * [Ubuntu下scp图形化工具](https://www.zhihu.com/question/55954722)
+
+* [Ubuntu18.04下安装搜狗输入法](https://blog.csdn.net/lupengCSDN/article/details/80279177)
 
 * [Ubuntu下装Kugou](https://blog.csdn.net/zgy0808/article/details/19572613) 缺少python相关的依赖项去[官方源](https://debian.pkgs.org/8/debian-main-amd64/python-webkit_1.1.8-3_amd64.deb.html)直接下载.deb文件；打开时提示“缺少插件”暂无解决方法
 
@@ -114,6 +120,8 @@ A collection of some useful blogs, some might be 404 as time passing ...
 
 ## Computer Vision
 
+* [RCNN系列简介](https://blog.csdn.net/jiongnima/article/details/79094159)
+
 * [光流（optical flow）简介](https://blog.csdn.net/zouxy09/article/details/8683859)
 
 ## Machine Vision
@@ -123,8 +131,6 @@ A collection of some useful blogs, some might be 404 as time passing ...
 # O.T.W
 
 * [解决arxiv文章pdf加载慢](https://www.jianshu.com/p/184799230f20)
-
-* [git star管理](https://ruby-china.org/topics/29817)
 
 * [下载Youtube视频](https://zhuanlan.zhihu.com/p/32343191)
 
