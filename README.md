@@ -18,6 +18,8 @@ A collection of some useful blogs, some might be 404 as time passing ...
     * [Machine Learning & Probability Statistics](https://github.com/shinshiner/Useful-Blogs#machine-learning--probability-statistics)
     * [Computer Vision](https://github.com/shinshiner/Useful-Blogs#computer-vision)
     * [Machine Vision](https://github.com/shinshiner/Useful-Blogs#machine-vision)
+* [Robotic](https://github.com/shinshiner/Useful-Blogs#robotic)
+    * [Motion](https://github.com/shinshiner/Useful-Blogs#motion)
 * [O.T.W](https://github.com/shinshiner/Useful-Blogs#otw)
 
 # OS
@@ -108,7 +110,7 @@ A collection of some useful blogs, some might be 404 as time passing ...
 
 * [git branch操作](https://www.jianshu.com/p/9d5a5ea3283a)
 
-# Mathematics
+# Mathematics & AI
 
 ## Machine Learning & Probability Statistics
 
@@ -117,6 +119,8 @@ A collection of some useful blogs, some might be 404 as time passing ...
 * [Softmax函数与交叉熵](https://zhuanlan.zhihu.com/p/27223959)
 
 * [为什么交叉熵（cross-entropy）可以用于计算代价？](https://www.zhihu.com/question/65288314)
+
+* [主动学习简介](https://www.zhihu.com/question/265479171)
 
 ## Computer Vision
 
@@ -127,6 +131,12 @@ A collection of some useful blogs, some might be 404 as time passing ...
 ## Machine Vision
 
 * [视觉SLAM入门](https://www.cnblogs.com/gaoxiang12/p/3695962.html)
+
+# Robotic
+
+## Motion
+
+* [三维空间的刚体运动，SO(3)，SE(3)简介](https://zhuanlan.zhihu.com/p/32937868)
 
 # O.T.W
 
