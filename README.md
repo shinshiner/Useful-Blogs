@@ -44,6 +44,10 @@ A collection of some useful blogs, some might be 404 as time passing ...
 
 * [Debian下dpkg安装和卸载软件包](http://blog.51cto.com/wrchiu/359085)
 
+* [用parted挂载硬盘（支持2T容量以上的硬盘挂载）](https://blog.csdn.net/GodSunshine/article/details/51165539)
+
+* [配置启动挂载：/etc/fstab文件详解](https://www.jianshu.com/p/87bef8c24c15)
+
 ### 代理设置
 
 * [ss命令行安装及chrome代理配置](https://blog.csdn.net/shen2308/article/details/78511151)
@@ -62,9 +66,9 @@ A collection of some useful blogs, some might be 404 as time passing ...
 
 ### ROS
 
-* [Ubuntu18.04 Bionic安装ROS(melodic官方教程)](http://wiki.ros.org/melodic/Installation/Ubuntu)
+* [Ubuntu18.04 Bionic安装ROS（melodic官方教程）](http://wiki.ros.org/melodic/Installation/Ubuntu)
 
-* [Ubuntu18.04 Bionic安装ROS(melodic官方教程中文翻译版)](https://blog.csdn.net/ZhangRelay/article/details/80241758)
+* [Ubuntu18.04 Bionic安装ROS（melodic官方教程中文翻译版）](https://blog.csdn.net/ZhangRelay/article/details/80241758)
 
 * [运行ROS的turtlesim样例](https://blog.csdn.net/u010510350/article/details/60901107)
 
@@ -76,7 +80,7 @@ A collection of some useful blogs, some might be 404 as time passing ...
 
 ## 小工具
 
-* [Ubuntu 18.04装机必备软件](https://zhuanlan.zhihu.com/p/36591238)
+* [Ubuntu18.04装机必备软件](https://zhuanlan.zhihu.com/p/36591238)
 
 * [Ubuntu下scp图形化工具](https://www.zhihu.com/question/55954722)
 
@@ -89,6 +93,8 @@ A collection of some useful blogs, some might be 404 as time passing ...
 * [Chrome浏览器始终开启flash](https://www.zhihu.com/question/266170237)
 
 * [Ubuntu下安装Jupyter Notebook](https://blog.csdn.net/jenyzhang/article/details/73275232)
+
+* [Ubuntu下部分解决Sublime Text 3中文输入的问题](https://github.com/lyfeyaj/sublime-text-imfix)
 
 # Coding
 
@@ -120,13 +126,17 @@ A collection of some useful blogs, some might be 404 as time passing ...
 
 * [为什么交叉熵（cross-entropy）可以用于计算代价？](https://www.zhihu.com/question/65288314)
 
-* [主动学习简介](https://www.zhihu.com/question/265479171)
+* [主动学习（active learning）简介](https://www.zhihu.com/question/265479171)
 
 ## Computer Vision
 
 * [RCNN系列简介](https://blog.csdn.net/jiongnima/article/details/79094159)
 
 * [光流（optical flow）简介](https://blog.csdn.net/zouxy09/article/details/8683859)
+
+* [视体（frustum）](https://zh.wikipedia.org/wiki/%E8%A7%86%E4%BD%93)
+
+* [Frustum PointNets论文翻译](https://blog.csdn.net/cuichuanchen3307/article/details/80156433)
 
 ## Machine Vision
 
@@ -143,4 +153,6 @@ A collection of some useful blogs, some might be 404 as time passing ...
 * [解决arxiv文章pdf加载慢](https://www.jianshu.com/p/184799230f20)
 
 * [下载Youtube视频](https://zhuanlan.zhihu.com/p/32343191)
+
+
 
