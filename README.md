@@ -54,9 +54,15 @@ A collection of some useful blogs, some might be 404 as time passing ...
 
 * [chrome浏览器下使用SwitchProxy插件配置ss代理](https://blog.csdn.net/u79501/article/details/69666754)
 
+* [Ubuntu开启BBR加速Shadowsocks](https://leiquan.website/2017/04/24/Ubuntu%E5%BC%80%E5%90%AFBBR%E5%8A%A0%E9%80%9FShadowsocks/)
+
 * [Ubuntu18.04安装ss图形界面](https://blog.csdn.net/A807296772/article/details/80112871)
 
 * [V2Ray使用及对抗QoS限速](https://steemit.com/cn/@syt/v2ray-qos)
+
+### Some Explanations
+
+* [ext2,3,4文件系统中的lost+found文件夹作用](https://www.helplib.com/Mac/article_11379)
 
 ## Windows 10
 
@@ -100,6 +106,8 @@ A collection of some useful blogs, some might be 404 as time passing ...
 
 ## Python
 
+* [Python2.7和Python3的一些区别](http://nhiro.org/learn_language/python_2and3.html)
+
 * [tensorflow下解决语义分割交叉熵损失总是nan](https://blog.csdn.net/jinbeibei0606/article/details/80216913)
 
 * [pytorch实现简单的分类rnn](https://morvanzhou.github.io/tutorials/machine-learning/torch/4-02-RNN-classification/)
@@ -115,6 +123,10 @@ A collection of some useful blogs, some might be 404 as time passing ...
 * [git pull操作](https://blog.csdn.net/liuhaomatou/article/details/65935558)
 
 * [git branch操作](https://www.jianshu.com/p/9d5a5ea3283a)
+
+* [github使用添加ssh key](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
+
+* [git设置用户名/邮箱](https://blog.csdn.net/qq_15437667/article/details/51029757)
 
 # Mathematics & AI
 
@@ -132,9 +144,11 @@ A collection of some useful blogs, some might be 404 as time passing ...
 
 * [RCNN系列简介](https://blog.csdn.net/jiongnima/article/details/79094159)
 
+* [理解Mask-RCNN](https://www.jiqizhixin.com/articles/Mask_RCNN-tree-master-samples-balloon)
+
 * [光流（optical flow）简介](https://blog.csdn.net/zouxy09/article/details/8683859)
 
-* [视体（frustum）](https://zh.wikipedia.org/wiki/%E8%A7%86%E4%BD%93)
+* [视体（frustum）简介](https://zh.wikipedia.org/wiki/%E8%A7%86%E4%BD%93)
 
 * [Frustum PointNets论文翻译](https://blog.csdn.net/cuichuanchen3307/article/details/80156433)
 
@@ -154,5 +168,6 @@ A collection of some useful blogs, some might be 404 as time passing ...
 
 * [下载Youtube视频](https://zhuanlan.zhihu.com/p/32343191)
 
+* [项目版本的标识意义（Alpha，beta，rc，ga，release）](https://blog.csdn.net/liangrui1988/article/details/43233469)
 
-
+* [Unix版权史](http://www.ruanyifeng.com/blog/2010/03/unix_copyright_history.html)
