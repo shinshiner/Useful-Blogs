@@ -84,6 +84,10 @@ A collection of some useful blogs, some might be 404 as time passing ...
 
 * [Mujoco和Mujoco-py的安装](https://blog.csdn.net/xulingjie_online/article/details/79179082)
 
+### PCL & python-pcl
+
+* [Ubuntu16.04 & 18.04安装PCL 1.8.1和python-pcl](https://blog.csdn.net/yeyang911/article/details/79815949)，前置依赖项的安装参考[这篇博文](https://blog.csdn.net/yeyang911/article/details/79815949)
+
 ## 小工具
 
 * [Ubuntu18.04装机必备软件](https://zhuanlan.zhihu.com/p/36591238)
@@ -168,6 +172,10 @@ A collection of some useful blogs, some might be 404 as time passing ...
 
 * [下载Youtube视频](https://zhuanlan.zhihu.com/p/32343191)
 
+* [软件的版本号简介](https://www.zhihu.com/question/20289602)
+
 * [项目版本的标识意义（Alpha，beta，rc，ga，release）](https://blog.csdn.net/liangrui1988/article/details/43233469)
 
 * [Unix版权史](http://www.ruanyifeng.com/blog/2010/03/unix_copyright_history.html)
+
+* [临时北美手机号](https://smsreceivefree.com/)
