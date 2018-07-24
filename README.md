@@ -14,8 +14,9 @@ A collection of some useful blogs, some might be 404 as time passing ...
     * [Python](https://github.com/shinshiner/Useful-Blogs#python)
     * [C++](https://github.com/shinshiner/Useful-Blogs#c)
     * [代码托管](https://github.com/shinshiner/Useful-Blogs#%E4%BB%A3%E7%A0%81%E6%89%98%E7%AE%A1)
-* [Mathematics](https://github.com/shinshiner/Useful-Blogs#mathematics)
+* [Mathematics & AI](https://github.com/shinshiner/Useful-Blogs#mathematics--ai)
     * [Machine Learning & Probability Statistics](https://github.com/shinshiner/Useful-Blogs#machine-learning--probability-statistics)
+    * [Computer Graphics](https://github.com/shinshiner/Useful-Blogs#computer-graphics)
     * [Computer Vision](https://github.com/shinshiner/Useful-Blogs#computer-vision)
     * [Machine Vision](https://github.com/shinshiner/Useful-Blogs#machine-vision)
 * [Robotic](https://github.com/shinshiner/Useful-Blogs#robotic)
@@ -106,11 +107,25 @@ A collection of some useful blogs, some might be 404 as time passing ...
 
 * [Ubuntu下部分解决Sublime Text 3中文输入的问题](https://github.com/lyfeyaj/sublime-text-imfix)
 
+* [Ubuntu下的Unity3d安装包](https://forum.unity.com/threads/unity-on-linux-release-notes-and-known-issues.350256/page-2)
+
 # Coding
 
 ## Python
 
+* [自动生成和安装requirements.txt依赖](http://lazybios.com/2015/06/how-to-use-requirementstxt-file-in-python/) 自动生成最好在虚拟环境下使用
+
 * [Python2.7和Python3的一些区别](http://nhiro.org/learn_language/python_2and3.html)
+
+* [控制台完全输出ndarray](https://blog.csdn.net/GZHermit/article/details/72716619)
+
+* [在matplotlib中反转imshow显示的图像](https://codeday.me/bug/20171011/84159.html)
+
+* [python scipy.misc.imresize()函数示例](https://blog.csdn.net/wenqiwenqi123/article/details/79306611)
+
+* [PIL中的Image和numpy中的数组array相互转换](https://www.cnblogs.com/gongxijun/p/6114232.html)
+
+* [pcl库从图像到点云（准备+标定等）](https://zhuanlan.zhihu.com/p/25802678)
 
 * [tensorflow下解决语义分割交叉熵损失总是nan](https://blog.csdn.net/jinbeibei0606/article/details/80216913)
 
@@ -143,6 +158,10 @@ A collection of some useful blogs, some might be 404 as time passing ...
 * [为什么交叉熵（cross-entropy）可以用于计算代价？](https://www.zhihu.com/question/65288314)
 
 * [主动学习（active learning）简介](https://www.zhihu.com/question/265479171)
+
+## Computer Graphics
+
+* [TSDF方法的重建和Poisson重建相比较](https://www.zhihu.com/question/52697364)
 
 ## Computer Vision
 
