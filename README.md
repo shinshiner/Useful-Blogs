@@ -109,6 +109,8 @@ A collection of some useful blogs, some might be 404 as time passing ...
 
 * [Ubuntu下的Unity3d安装包](https://forum.unity.com/threads/unity-on-linux-release-notes-and-known-issues.350256/page-2)
 
+* [Ubuntu下安装Open3D](http://www.open3d.org/docs/getting_started.html#compiling-from-source)
+
 # Coding
 
 ## Python
@@ -116,6 +118,8 @@ A collection of some useful blogs, some might be 404 as time passing ...
 * [自动生成和安装requirements.txt依赖](http://lazybios.com/2015/06/how-to-use-requirementstxt-file-in-python/) 自动生成最好在虚拟环境下使用
 
 * [Python2.7和Python3的一些区别](http://nhiro.org/learn_language/python_2and3.html)
+
+* [Numpy bool数组转int数组](https://stackoverflow.com/questions/17506163/how-to-convert-a-boolean-array-to-an-int-array)
 
 * [控制台完全输出ndarray](https://blog.csdn.net/GZHermit/article/details/72716619)
 
@@ -157,9 +161,13 @@ A collection of some useful blogs, some might be 404 as time passing ...
 
 * [为什么交叉熵（cross-entropy）可以用于计算代价？](https://www.zhihu.com/question/65288314)
 
+* [nce loss](https://www.zhihu.com/question/50043438)
+
 * [主动学习（active learning）简介](https://www.zhihu.com/question/265479171)
 
 ## Computer Graphics
+
+* [不同三维坐标系间的坐标转换](https://blog.csdn.net/Peng___Peng/article/details/51510668)
 
 * [TSDF方法的重建和Poisson重建相比较](https://www.zhihu.com/question/52697364)
 
