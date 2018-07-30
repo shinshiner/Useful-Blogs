@@ -119,9 +119,17 @@ A collection of some useful blogs, some might be 404 as time passing ...
 
 * [Python2.7和Python3的一些区别](http://nhiro.org/learn_language/python_2and3.html)
 
+* [Python join() 函数](https://blog.csdn.net/doiido/article/details/43538833)
+
+* [python 字典操作](https://blog.csdn.net/HHTNAN/article/details/77164198)
+
 * [Numpy bool数组转int数组](https://stackoverflow.com/questions/17506163/how-to-convert-a-boolean-array-to-an-int-array)
 
 * [控制台完全输出ndarray](https://blog.csdn.net/GZHermit/article/details/72716619)
+
+* [Python Numpy计算各类距离](https://blog.csdn.net/qq_19707521/article/details/78479532)
+
+* [Python各类图像库的图片读写方式总结](https://www.cnblogs.com/skyfsm/p/8276501.html)
 
 * [在matplotlib中反转imshow显示的图像](https://codeday.me/bug/20171011/84159.html)
 
@@ -129,13 +137,21 @@ A collection of some useful blogs, some might be 404 as time passing ...
 
 * [PIL中的Image和numpy中的数组array相互转换](https://www.cnblogs.com/gongxijun/p/6114232.html)
 
-* [pcl库从图像到点云（准备+标定等）](https://zhuanlan.zhihu.com/p/25802678)
+* [pcl库从图像到点云（数据准备+相机标定等）](https://zhuanlan.zhihu.com/p/25802678)
+
+* [OpenCV-Python：module 'cv2.cv2' has no attribute 'TrackerKCF_create'](https://stackoverflow.com/questions/42387322/how-to-add-tracker-in-opencv-python-2-7)
+
+* [OpenCV-Python：Shi-Tomasi 角点检测](https://www.jianshu.com/p/163ff90e35a9)
 
 * [tensorflow下解决语义分割交叉熵损失总是nan](https://blog.csdn.net/jinbeibei0606/article/details/80216913)
 
 * [pytorch实现简单的分类rnn](https://morvanzhou.github.io/tutorials/machine-learning/torch/4-02-RNN-classification/)
 
+* [pycharm加入import路径](https://blog.csdn.net/hongxingabc/article/details/77094059)
+
 ## C++
+
+* [gcc/g++使用第三方库时添加头文件路径和库文件路径](https://blog.csdn.net/arackethis/article/details/43342655)
 
 ## 代码托管
 
