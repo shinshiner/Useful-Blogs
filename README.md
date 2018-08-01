@@ -123,6 +123,8 @@ A collection of some useful blogs, some might be 404 as time passing ...
 
 * [python 字典操作](https://blog.csdn.net/HHTNAN/article/details/77164198)
 
+* [@staticmethod和@classmethod的作用与区别](https://blog.csdn.net/handsomekang/article/details/9615239)
+
 * [Numpy bool数组转int数组](https://stackoverflow.com/questions/17506163/how-to-convert-a-boolean-array-to-an-int-array)
 
 * [控制台完全输出ndarray](https://blog.csdn.net/GZHermit/article/details/72716619)
@@ -184,6 +186,8 @@ A collection of some useful blogs, some might be 404 as time passing ...
 ## Computer Graphics
 
 * [不同三维坐标系间的坐标转换](https://blog.csdn.net/Peng___Peng/article/details/51510668)
+
+* [四元数（Quaternion）和旋转](https://blog.csdn.net/candycat1992/article/details/41254799)
 
 * [TSDF方法的重建和Poisson重建相比较](https://www.zhihu.com/question/52697364)
 
