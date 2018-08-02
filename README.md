@@ -115,6 +115,8 @@ A collection of some useful blogs, some might be 404 as time passing ...
 
 ## Python
 
+### 基本操作
+
 * [自动生成和安装requirements.txt依赖](http://lazybios.com/2015/06/how-to-use-requirementstxt-file-in-python/) 自动生成最好在虚拟环境下使用
 
 * [Python2.7和Python3的一些区别](http://nhiro.org/learn_language/python_2and3.html)
@@ -125,11 +127,15 @@ A collection of some useful blogs, some might be 404 as time passing ...
 
 * [@staticmethod和@classmethod的作用与区别](https://blog.csdn.net/handsomekang/article/details/9615239)
 
+### 科学计算
+
 * [Numpy bool数组转int数组](https://stackoverflow.com/questions/17506163/how-to-convert-a-boolean-array-to-an-int-array)
 
 * [控制台完全输出ndarray](https://blog.csdn.net/GZHermit/article/details/72716619)
 
 * [Python Numpy计算各类距离](https://blog.csdn.net/qq_19707521/article/details/78479532)
+
+### 图像处理
 
 * [Python各类图像库的图片读写方式总结](https://www.cnblogs.com/skyfsm/p/8276501.html)
 
@@ -145,17 +151,31 @@ A collection of some useful blogs, some might be 404 as time passing ...
 
 * [OpenCV-Python：Shi-Tomasi 角点检测](https://www.jianshu.com/p/163ff90e35a9)
 
+### GUI
+
+* [PyQt5学习教程16：文件打开对话框的使用](https://blog.csdn.net/qingwufeiyang12346/article/details/78440910)
+
+* [PyQt清空layout](https://stackoverflow.com/questions/4528347/clear-all-widgets-in-a-layout-in-pyqt)
+
+### 机器学习
+
 * [tensorflow下解决语义分割交叉熵损失总是nan](https://blog.csdn.net/jinbeibei0606/article/details/80216913)
 
 * [pytorch实现简单的分类rnn](https://morvanzhou.github.io/tutorials/machine-learning/torch/4-02-RNN-classification/)
+
+### 其它工具
 
 * [pycharm加入import路径](https://blog.csdn.net/hongxingabc/article/details/77094059)
 
 ## C++
 
+### 编译链接
+
 * [gcc/g++使用第三方库时添加头文件路径和库文件路径](https://blog.csdn.net/arackethis/article/details/43342655)
 
 ## 代码托管
+
+### git & github
 
 * [git star管理](http://ourcoders.com/thread/show/7673/)
 
@@ -189,11 +209,15 @@ A collection of some useful blogs, some might be 404 as time passing ...
 
 * [四元数（Quaternion）和旋转](https://blog.csdn.net/candycat1992/article/details/41254799)
 
+* [四元数与欧拉角（RPY角）的相互转换](https://www.cnblogs.com/21207-iHome/p/6894128.html)
+
 * [TSDF方法的重建和Poisson重建相比较](https://www.zhihu.com/question/52697364)
 
 ## Computer Vision
 
 * [RCNN系列简介](https://blog.csdn.net/jiongnima/article/details/79094159)
+
+* [Faster-RCNN详解](https://zhuanlan.zhihu.com/p/31426458)
 
 * [理解Mask-RCNN](https://www.jiqizhixin.com/articles/Mask_RCNN-tree-master-samples-balloon)
 
