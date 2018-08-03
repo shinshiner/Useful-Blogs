@@ -121,6 +121,8 @@ A collection of some useful blogs, some might be 404 as time passing ...
 
 * [Python2.7和Python3的一些区别](http://nhiro.org/learn_language/python_2and3.html)
 
+* [python 整数补零](https://blog.csdn.net/qq_16949707/article/details/53334097)
+
 * [Python join() 函数](https://blog.csdn.net/doiido/article/details/43538833)
 
 * [python 字典操作](https://blog.csdn.net/HHTNAN/article/details/77164198)
@@ -193,7 +195,13 @@ A collection of some useful blogs, some might be 404 as time passing ...
 
 ## Machine Learning & Probability Statistics
 
+### 概要
+
+* [主动学习（active learning）简介](https://www.zhihu.com/question/265479171)
+
 * [RANSAC算法通俗简介](https://blog.csdn.net/u013339596/article/details/18797667)
+
+### 损失函数
 
 * [Softmax函数与交叉熵](https://zhuanlan.zhihu.com/p/27223959)
 
@@ -201,7 +209,9 @@ A collection of some useful blogs, some might be 404 as time passing ...
 
 * [nce loss](https://www.zhihu.com/question/50043438)
 
-* [主动学习（active learning）简介](https://www.zhihu.com/question/265479171)
+### 网络结构
+
+* [Deconvolution](https://www.zhihu.com/question/43609045/answer/130868981)
 
 ## Computer Graphics
 
@@ -220,6 +230,8 @@ A collection of some useful blogs, some might be 404 as time passing ...
 * [Faster-RCNN详解](https://zhuanlan.zhihu.com/p/31426458)
 
 * [理解Mask-RCNN](https://www.jiqizhixin.com/articles/Mask_RCNN-tree-master-samples-balloon)
+
+* [目标检测：SSD](https://zhuanlan.zhihu.com/p/33544892)
 
 * [光流（optical flow）简介](https://blog.csdn.net/zouxy09/article/details/8683859)
 
