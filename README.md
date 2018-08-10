@@ -129,6 +129,10 @@ A collection of some useful blogs, some might be 404 as time passing ...
 
 * [@staticmethod和@classmethod的作用与区别](https://blog.csdn.net/handsomekang/article/details/9615239)
 
+* [python读写json文件](https://www.jianshu.com/p/a4a7d75bf7d9)
+
+* [Python中os.mkdir()与os.makedirs()的区别及用法](https://blog.csdn.net/ljl6158999/article/details/70807738)
+
 ### 科学计算
 
 * [Numpy bool数组转int数组](https://stackoverflow.com/questions/17506163/how-to-convert-a-boolean-array-to-an-int-array)
@@ -191,6 +195,8 @@ A collection of some useful blogs, some might be 404 as time passing ...
 
 * [git设置用户名/邮箱](https://blog.csdn.net/qq_15437667/article/details/51029757)
 
+* [为什么你的 Contributions 没有在你的 Profile 里显示](https://segmentfault.com/a/1190000004318632)
+
 # Mathematics & AI
 
 ## Machine Learning & Probability Statistics
@@ -223,6 +229,8 @@ A collection of some useful blogs, some might be 404 as time passing ...
 
 * [TSDF方法的重建和Poisson重建相比较](https://www.zhihu.com/question/52697364)
 
+* [位图快速转矢量图的5种方法](https://www.jianshu.com/p/456157dfe0b0)
+
 ## Computer Vision
 
 * [RCNN系列简介](https://blog.csdn.net/jiongnima/article/details/79094159)
@@ -234,6 +242,10 @@ A collection of some useful blogs, some might be 404 as time passing ...
 * [目标检测：SSD](https://zhuanlan.zhihu.com/p/33544892)
 
 * [光流（optical flow）简介](https://blog.csdn.net/zouxy09/article/details/8683859)
+
+* [3D视觉中的矩阵](http://www.opengl-tutorial.org/cn/beginners-tutorials/tutorial-3-matrices/#%E6%A8%A1%E5%9E%8Bmodel%E8%A7%82%E5%AF%9Fview%E5%92%8C%E6%8A%95%E5%BD%B1projection%E7%9F%A9%E9%98%B5)
+
+* [相机上向量up vector](https://juejin.im/post/5b13fdc4e51d45069a39e3c6#heading-0)
 
 * [视体（frustum）简介](https://zh.wikipedia.org/wiki/%E8%A7%86%E4%BD%93)
 
