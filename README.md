@@ -65,6 +65,12 @@ A collection of some useful blogs, some might be 404 as time passing ...
 
 * [ext2,3,4文件系统中的lost+found文件夹作用](https://www.helplib.com/Mac/article_11379)
 
+### 排错
+
+* [/etc/sudoers文件权限被改后无法使用sudo命令](https://askubuntu.com/questions/304212/how-to-solve-sudo-etc-sudoers-d-is-world-writable)
+
+* [pkexec报错：No session for cookie](https://sites.google.com/site/nandydandyoracle/tools/pkexec-visudo-no-session-for-cookie)
+
 ## Windows 10
 
 # 环境安装
@@ -132,6 +138,8 @@ A collection of some useful blogs, some might be 404 as time passing ...
 * [python读写json文件](https://www.jianshu.com/p/a4a7d75bf7d9)
 
 * [Python中os.mkdir()与os.makedirs()的区别及用法](https://blog.csdn.net/ljl6158999/article/details/70807738)
+
+* [C/C++与Python的相互调用](https://www.zhihu.com/question/23003213)
 
 ### 科学计算
 
