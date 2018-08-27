@@ -21,6 +21,8 @@ A collection of some useful blogs, some might be 404 as time passing ...
     * [Machine Vision](https://github.com/shinshiner/Useful-Blogs#machine-vision)
 * [Robotic](https://github.com/shinshiner/Useful-Blogs#robotic)
     * [Motion](https://github.com/shinshiner/Useful-Blogs#motion)
+* [Block Chain](https://github.com/shinshiner/Useful-Blogs#block-chain)
+    * [BitCoin](https://github.com/shinshiner/Useful-Blogs#bitcoin)
 * [O.T.W](https://github.com/shinshiner/Useful-Blogs#otw)
 
 # OS
@@ -37,9 +39,13 @@ A collection of some useful blogs, some might be 404 as time passing ...
 
 * [查看磁盘空间](https://blog.csdn.net/newjueqi/article/details/7054582)
 
+* [Linux /etc/passwd & /etc/shadow文件含义](https://blog.csdn.net/ouyang_peng/article/details/8732814)
+
 ### 基本操作
 
 * [添加 / 删除软件源](https://blog.csdn.net/lu_embedded/article/details/55803500)
+
+* [添加sudo权限 & 免密码使用sudo和su](https://www.jianshu.com/p/5d02428f313d)
 
 * [更换默认shell](https://blog.csdn.net/he520478/article/details/45219279)
 
@@ -133,9 +139,13 @@ A collection of some useful blogs, some might be 404 as time passing ...
 
 * [python 字典操作](https://blog.csdn.net/HHTNAN/article/details/77164198)
 
+* [python函数参数前面带星号的作用](https://www.cnblogs.com/arkenstone/p/5695161.html)，另可参考[这篇](https://www.zhihu.com/question/20801578)
+
 * [@staticmethod和@classmethod的作用与区别](https://blog.csdn.net/handsomekang/article/details/9615239)
 
 * [python读写json文件](https://www.jianshu.com/p/a4a7d75bf7d9)
+
+* [python logging模块使用](https://www.jianshu.com/p/feb86c06c4f4)
 
 * [Python中os.mkdir()与os.makedirs()的区别及用法](https://blog.csdn.net/ljl6158999/article/details/70807738)
 
@@ -176,6 +186,12 @@ A collection of some useful blogs, some might be 404 as time passing ...
 * [tensorflow下解决语义分割交叉熵损失总是nan](https://blog.csdn.net/jinbeibei0606/article/details/80216913)
 
 * [pytorch实现简单的分类rnn](https://morvanzhou.github.io/tutorials/machine-learning/torch/4-02-RNN-classification/)
+
+* [Pytorch自定义损失函数](https://www.zhihu.com/question/66988664)
+
+### 网络
+
+* [Python nmap库实现端口扫描](http://www.tianfeiyu.com/?p=1360)
 
 ### 其它工具
 
@@ -227,6 +243,8 @@ A collection of some useful blogs, some might be 404 as time passing ...
 
 * [Deconvolution](https://www.zhihu.com/question/43609045/answer/130868981)
 
+* [空间变换网络（Spatial Transformer Networks）](https://zhuanlan.zhihu.com/p/41738716)
+
 ## Computer Graphics
 
 * [不同三维坐标系间的坐标转换](https://blog.csdn.net/Peng___Peng/article/details/51510668)
@@ -268,6 +286,12 @@ A collection of some useful blogs, some might be 404 as time passing ...
 ## Motion
 
 * [三维空间的刚体运动，SO(3)，SE(3)简介](https://zhuanlan.zhihu.com/p/32937868)
+
+# Block Chain
+
+## BitCoin
+
+* [比特币通俗介绍](https://www.zhihu.com/question/20876219)
 
 # O.T.W
 
