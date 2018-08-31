@@ -23,6 +23,8 @@ A collection of some useful blogs, some might be 404 as time passing ...
     * [Motion](https://github.com/shinshiner/Useful-Blogs#motion)
 * [Block Chain](https://github.com/shinshiner/Useful-Blogs#block-chain)
     * [BitCoin](https://github.com/shinshiner/Useful-Blogs#bitcoin)
+* [Quantum](https://github.com/shinshiner/Useful-Blogs#quantum)
+    * [Quantum Computer](https://github.com/shinshiner/Useful-Blogs#quantum-computer)
 * [O.T.W](https://github.com/shinshiner/Useful-Blogs#otw)
 
 # OS
@@ -151,6 +153,10 @@ A collection of some useful blogs, some might be 404 as time passing ...
 
 * [C/C++与Python的相互调用](https://www.zhihu.com/question/23003213)
 
+### 进阶操作
+
+* [用numba加速Python代码](https://zhuanlan.zhihu.com/p/27152060)
+
 ### 科学计算
 
 * [Numpy bool数组转int数组](https://stackoverflow.com/questions/17506163/how-to-convert-a-boolean-array-to-an-int-array)
@@ -220,6 +226,8 @@ A collection of some useful blogs, some might be 404 as time passing ...
 * [git设置用户名/邮箱](https://blog.csdn.net/qq_15437667/article/details/51029757)
 
 * [为什么你的 Contributions 没有在你的 Profile 里显示](https://segmentfault.com/a/1190000004318632)
+
+* [GitHub项目徽章的添加和设置](http://www.mdslq.cn/archives/b687dd8f.html)
 
 # Mathematics & AI
 
@@ -293,6 +301,12 @@ A collection of some useful blogs, some might be 404 as time passing ...
 
 * [比特币通俗介绍](https://www.zhihu.com/question/20876219)
 
+# Quantum
+
+## Quantum Computer
+
+* [量子计算机编程原理简介和机器学习](http://blog.51cto.com/peterhs/1104560)
+
 # O.T.W
 
 * [解决arxiv文章pdf加载慢](https://www.jianshu.com/p/184799230f20)
@@ -306,3 +320,5 @@ A collection of some useful blogs, some might be 404 as time passing ...
 * [Unix版权史](http://www.ruanyifeng.com/blog/2010/03/unix_copyright_history.html)
 
 * [临时北美手机号](https://smsreceivefree.com/)
+
+* [RGB颜色对照表](http://tool.oschina.net/commons?type=3)
